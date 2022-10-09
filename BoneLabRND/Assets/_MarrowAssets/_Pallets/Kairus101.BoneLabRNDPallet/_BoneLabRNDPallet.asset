@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bffa63f5a19c394b9f0ab757607a9ea, type: 3}
+  m_Name: _BoneLabRNDPallet
+  m_EditorClassIdentifier: 
+  _barcode:
+    _id: Kairus101.BoneLabRNDPallet
+    generated: 1
+  _barcodeOld:
+    _id: null.empty.barcode
+    generated: 0
+  _slimCode:
+    _byteArray: 
+  _title: BoneLabRNDPallet
+  _description: 
+  _unlockable: 0
+  _redacted: 0
+  _author: Kairus101
+  _version: 0.0.0
+  _sdkVersion: 0.3.6-1705
+  _internal: 0
+  _crates:
+  - {fileID: 11400000, guid: 5763d682d4f211b4693c03c4cd5e5470, type: 2}
+  - {fileID: 11400000, guid: da38a57145ad25843a45a93003d50748, type: 2}
+  _tags: []
+  _changeLogs: []
+  _crateTitles:
+  - RNDLevel
+  - Teapot

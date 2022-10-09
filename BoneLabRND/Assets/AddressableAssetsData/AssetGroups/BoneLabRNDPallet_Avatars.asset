@@ -10,16 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: BoneLabRNDPallet_Avatars
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: BoneLabRNDPallet_Avatars
   m_Data:
     m_SerializedData: []
-  m_GUID: 138ae488dc8377a44940d59afd54e0d3
+  m_GUID: e45cf76cc3f58da438b34802e2d0ccad
   m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 587f49e8abcffce4394917dd36a7c3c4, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 3a5a1580bc2075e49bbdcf5187c2e556, type: 2}
-    - {fileID: 11400000, guid: 6003550d51ff2b847acfb331ae4e2380, type: 2}
+    - {fileID: 11400000, guid: 9f4758768430ecf49817da027326e435, type: 2}
+    - {fileID: 11400000, guid: a4337916439fa0245bb9482d88537bb3, type: 2}
+    - {fileID: 11400000, guid: 8cccff9e3a7d6bd47bea671a31befccd, type: 2}
