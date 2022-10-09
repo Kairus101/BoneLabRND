@@ -21,9 +21,9 @@ MonoBehaviour:
   _slimCode:
     _byteArray: 
   _title: Teapot
-  _description: 
+  _description: KaiDebugTeapot
   _unlockable: 0
-  _redacted: 1
+  _redacted: 0
   _pallet: {fileID: 11400000, guid: 5ca59accfec7d80488c3880e4e1e7c6e, type: 2}
   _tags: []
   _mainAsset:

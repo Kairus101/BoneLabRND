@@ -21,11 +21,11 @@ MonoBehaviour:
   _slimCode:
     _byteArray: 
   _title: BoneLabRNDPallet
-  _description: 
+  _description: test
   _unlockable: 0
   _redacted: 0
   _author: Kairus101
-  _version: 0.0.0
+  _version: 0.0.1
   _sdkVersion: 0.3.6-1705
   _internal: 0
   _crates:

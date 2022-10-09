@@ -15,10 +15,14 @@ MonoBehaviour:
   m_GroupName: BoneLabRNDPallet_Levels
   m_Data:
     m_SerializedData: []
-  m_GUID: 28ccb254ece8f5e4bb8b6edf6dade34b
-  m_SerializeEntries: []
+  m_GUID: fe4e7a78cae29f94f88aa40227704474
+  m_SerializeEntries:
+  - m_GUID: 99c9720ab356a0642a771bea13969a05
+    m_Address: Level/RNDLevel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 587f49e8abcffce4394917dd36a7c3c4, type: 2}
+  m_Settings: {fileID: 11400000, guid: 4b646bb2ec1c4fa428d8612033a2d649, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: 41d67318f8bbab14dbee696403ab541c, type: 2}

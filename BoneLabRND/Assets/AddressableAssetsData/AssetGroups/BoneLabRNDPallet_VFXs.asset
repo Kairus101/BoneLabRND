@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: BoneLabRNDPallet_VFXs
   m_Data:
     m_SerializedData: []
-  m_GUID: 69a7a55d79c32ef45af11772101e89a9
+  m_GUID: 9362eb04ff1bc304e9c4b274aec7f5ea
   m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 587f49e8abcffce4394917dd36a7c3c4, type: 2}
+  m_Settings: {fileID: 11400000, guid: 4b646bb2ec1c4fa428d8612033a2d649, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: 608802d81e3871a4d99b1b915c25d28b, type: 2}

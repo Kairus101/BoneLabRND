@@ -15,10 +15,18 @@ MonoBehaviour:
   m_GroupName: BoneLabRNDPallet_Spawnables
   m_Data:
     m_SerializedData: []
-  m_GUID: d7cf9919ef42fd14d8bb607664962aee
-  m_SerializeEntries: []
+  m_GUID: e19d14f11b489594aafc328e11986807
+  m_SerializeEntries:
+  - m_GUID: ca1c0014cbf0b5a4d9663d90cc88fd6c
+    m_Address: Spawnable/Teapot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8bbb2edc6c8d724cabe7d8707783871
+    m_Address: PreviewMesh/Teapot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 587f49e8abcffce4394917dd36a7c3c4, type: 2}
+  m_Settings: {fileID: 11400000, guid: 4b646bb2ec1c4fa428d8612033a2d649, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: e6d642eb02175db4abe37e2ac0d2c036, type: 2}
